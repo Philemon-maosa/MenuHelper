@@ -1,0 +1,11 @@
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Ignore Django migrations if you want (optional)
+api/migrations/
